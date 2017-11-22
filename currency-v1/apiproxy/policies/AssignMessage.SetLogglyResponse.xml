@@ -1,5 +1,5 @@
 <AssignMessage name="AssignMessage.SetLogglyResponse">
-	<AssignTo createNew="true" type="response"></AssignTo>
+	<AssignTo createNew="true" type="response"/>
 	<Set>
 		<StatusCode>200</StatusCode>
 	</Set>
