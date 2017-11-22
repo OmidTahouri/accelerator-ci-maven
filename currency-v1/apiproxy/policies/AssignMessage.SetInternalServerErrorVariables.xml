@@ -12,7 +12,7 @@
 
 	<AssignVariable>
 		<Name>flow.apigee.error.info</Name>
-		<Value>https://developers.apigee.com</Value>
+		<Value>https://developers.example.com</Value>
 	</AssignVariable>
 
 	<AssignVariable>
