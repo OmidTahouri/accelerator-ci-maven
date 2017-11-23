@@ -21,6 +21,11 @@
 	</AssignVariable>
 
 	<AssignVariable>
+		<Name>flow.this.rocks</Name>
+		<Value>a bit</Value>
+	</AssignVariable>
+
+	<AssignVariable>
 		<Name>flow.apigee.error.reason</Name>
 		<Value>Not Found</Value>
 	</AssignVariable>
