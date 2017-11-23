@@ -26,6 +26,11 @@
 	</AssignVariable>
 
 	<AssignVariable>
+		<Name>flow.bla</Name>
+		<Value>foo</Value>
+	</AssignVariable>
+
+	<AssignVariable>
 		<Name>flow.apigee.error.reason</Name>
 		<Value>Not Found</Value>
 	</AssignVariable>
