@@ -17,7 +17,7 @@
 
 	<AssignVariable>
 		<Name>flow.apigee.error.status</Name>
-		<Value>500</Value>
+		<Value>501</Value>
 	</AssignVariable>
 
 	<AssignVariable>
