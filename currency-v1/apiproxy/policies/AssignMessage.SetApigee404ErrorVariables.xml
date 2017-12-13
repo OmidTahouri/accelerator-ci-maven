@@ -26,7 +26,7 @@
 	</AssignVariable>
 
 	<AssignVariable>
-		<Name>flow.bla</Name>
+		<Name>flow.awesome.var</Name>
 		<Value>foo</Value>
 	</AssignVariable>
 
