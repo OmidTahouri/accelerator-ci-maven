@@ -3,4 +3,8 @@
 		<Name>response.header.Content-Type</Name>
 		<Value>application/json</Value>
 	</AssignVariable>
+	<AssignVariable>
+		<Name>flow.custom.demo</Name>
+		<Value>pretty cool, bro</Value>
+	</AssignVariable>
 </AssignMessage>
