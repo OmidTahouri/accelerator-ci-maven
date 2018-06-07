@@ -1,3 +1,4 @@
+@wip
 Feature: Get Currency Rates Feature
 	As an API user
 	I want to get currency rates for a base currency
